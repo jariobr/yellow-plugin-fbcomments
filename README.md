@@ -19,7 +19,7 @@ Create and ative the App Facebook in https://developers.facebook.com/apps/
 
 FacebookId: 2000000000000000	
 
-Facebook Comments is a comment mananger service freely for websites. To use the plugin open file `system/config/config.ini` and change `FacebookId: 2000000000000000`. You can find the name of your website in the FbComments dashboard. Comments are shown on blog pages. To show comments on other pages add a `[fbcomments]` shortcut to a page.
+Facebook Comments is a comment mananger service freely for websites. To use the plugin open file `system/config/text.ini` and change `FacebookId: 2000000000000000`. You can find the name of your website in the FbComments dashboard. Comments are shown on blog pages. To show comments on other pages add a `[fbcomments]` shortcut to a page.
 
 
 This plugin uses an online service, use the [comments plugin](https://github.com/wunderfeyd/yellow-comments) as an alternative.
